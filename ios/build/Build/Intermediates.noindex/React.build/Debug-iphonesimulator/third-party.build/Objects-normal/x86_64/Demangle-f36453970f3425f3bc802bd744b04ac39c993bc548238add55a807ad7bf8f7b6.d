@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Users/riteshkumar/rts-learn/react-native/reactNative/ReactNativeNavigation/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h
